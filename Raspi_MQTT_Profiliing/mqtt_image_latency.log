@@ -1,0 +1,216 @@
+2025-04-28 21:10:38,509 - INFO - Connecting to MQTT broker...
+2025-04-28 21:16:39,203 - INFO - Connecting to MQTT broker...
+2025-04-28 21:16:39,206 - INFO - Connected to MQTT broker with result code 0
+2025-04-28 21:16:39,206 - INFO - Subscribed to esp32/image
+2025-04-28 21:56:55,405 - INFO - Program terminated by user
+2025-04-28 22:06:23,350 - INFO - Connecting to MQTT broker...
+2025-04-28 22:06:23,352 - INFO - Connected to MQTT broker with result code 0
+2025-04-28 22:06:23,353 - INFO - Subscribed to esp32/image
+2025-04-28 22:11:22,752 - INFO - Received packet 1/10 from ESP32
+2025-04-28 22:11:22,861 - INFO - Received packet 2/10 from ESP32
+2025-04-28 22:11:22,925 - INFO - Received packet 3/10 from ESP32
+2025-04-28 22:11:23,012 - INFO - Received packet 4/10 from ESP32
+2025-04-28 22:11:23,136 - INFO - Received packet 5/10 from ESP32
+2025-04-28 22:11:23,221 - INFO - Received packet 6/10 from ESP32
+2025-04-28 22:11:23,318 - INFO - Received packet 7/10 from ESP32
+2025-04-28 22:11:23,416 - INFO - Received packet 8/10 from ESP32
+2025-04-28 22:11:23,519 - INFO - Received packet 9/10 from ESP32
+2025-04-28 22:11:23,622 - INFO - Received packet 10/10 from ESP32
+2025-04-28 22:11:23,623 - INFO - Image reception latency: 1745874656126.99 ms
+2025-04-28 22:11:23,623 - INFO - Saved complete image to received_images/esp32_image_20250428_221123.jpg
+2025-04-28 22:11:23,623 - ERROR - Failed to decode image
+2025-04-28 22:11:23,623 - INFO - Average one-way latency: 1745874656126.99 ms
+2025-04-28 22:11:32,872 - INFO - Received packet 1/10 from ESP32
+2025-04-28 22:11:32,936 - INFO - Received packet 2/10 from ESP32
+2025-04-28 22:11:32,973 - INFO - Received packet 3/10 from ESP32
+2025-04-28 22:11:33,011 - INFO - Received packet 4/10 from ESP32
+2025-04-28 22:11:33,116 - INFO - Received packet 5/10 from ESP32
+2025-04-28 22:12:31,712 - INFO - Received packet 1/10 from ESP32
+2025-04-28 22:12:31,899 - INFO - Received packet 2/10 from ESP32
+2025-04-28 22:12:31,925 - INFO - Received packet 3/10 from ESP32
+2025-04-28 22:12:32,037 - INFO - Received packet 4/10 from ESP32
+2025-04-28 22:12:32,128 - INFO - Received packet 5/10 from ESP32
+2025-04-28 22:12:32,215 - INFO - Received packet 6/10 from ESP32
+2025-04-28 22:12:32,315 - INFO - Received packet 7/10 from ESP32
+2025-04-28 22:12:32,420 - INFO - Received packet 8/10 from ESP32
+2025-04-28 22:12:32,516 - INFO - Received packet 9/10 from ESP32
+2025-04-28 22:12:32,642 - INFO - Received packet 10/10 from ESP32
+2025-04-28 22:12:32,642 - INFO - Image reception latency: 1745874722328.60 ms
+2025-04-28 22:12:32,642 - INFO - Saved complete image to received_images/esp32_image_20250428_221232.jpg
+2025-04-28 22:12:32,642 - ERROR - Failed to decode image
+2025-04-28 22:12:32,643 - INFO - Average one-way latency: 1745874689227.80 ms
+2025-04-28 22:12:42,305 - INFO - Received packet 1/10 from ESP32
+2025-04-28 22:12:42,306 - INFO - Received packet 2/10 from ESP32
+2025-04-28 22:12:42,540 - INFO - Received packet 3/10 from ESP32
+2025-04-28 22:12:42,566 - INFO - Received packet 4/10 from ESP32
+2025-04-28 22:12:42,640 - INFO - Received packet 5/10 from ESP32
+2025-04-28 22:12:42,734 - INFO - Received packet 6/10 from ESP32
+2025-04-28 22:12:42,830 - INFO - Received packet 7/10 from ESP32
+2025-04-28 22:12:42,930 - INFO - Received packet 8/10 from ESP32
+2025-04-28 22:12:43,036 - INFO - Received packet 9/10 from ESP32
+2025-04-28 22:12:43,130 - INFO - Received packet 10/10 from ESP32
+2025-04-28 22:12:43,130 - INFO - Image reception latency: 1745874722816.94 ms
+2025-04-28 22:12:43,131 - INFO - Saved complete image to received_images/esp32_image_20250428_221243.jpg
+2025-04-28 22:12:43,131 - ERROR - Failed to decode image
+2025-04-28 22:12:43,131 - INFO - Average one-way latency: 1745874700424.18 ms
+2025-04-28 22:12:51,929 - INFO - Received packet 1/10 from ESP32
+2025-04-28 22:12:51,929 - INFO - Received packet 2/10 from ESP32
+2025-04-28 22:12:51,988 - INFO - Received packet 3/10 from ESP32
+2025-04-28 22:12:52,130 - INFO - Received packet 4/10 from ESP32
+2025-04-28 22:12:52,185 - INFO - Received packet 5/10 from ESP32
+2025-04-28 22:12:52,232 - INFO - Received packet 6/10 from ESP32
+2025-04-28 22:12:52,322 - INFO - Received packet 7/10 from ESP32
+2025-04-28 22:12:52,424 - INFO - Received packet 8/10 from ESP32
+2025-04-28 22:12:52,519 - INFO - Received packet 9/10 from ESP32
+2025-04-28 22:12:52,620 - INFO - Received packet 10/10 from ESP32
+2025-04-28 22:12:52,620 - INFO - Image reception latency: 1745874722305.33 ms
+2025-04-28 22:12:52,620 - INFO - Saved complete image to received_images/esp32_image_20250428_221252.jpg
+2025-04-28 22:12:52,620 - ERROR - Failed to decode image
+2025-04-28 22:12:52,620 - INFO - Average one-way latency: 1745874705894.47 ms
+2025-04-28 22:13:01,751 - INFO - Received packet 1/10 from ESP32
+2025-04-28 22:13:01,917 - INFO - Received packet 2/10 from ESP32
+2025-04-28 22:13:02,016 - INFO - Received packet 3/10 from ESP32
+2025-04-28 22:13:02,076 - INFO - Received packet 4/10 from ESP32
+2025-04-28 22:13:02,117 - INFO - Received packet 5/10 from ESP32
+2025-04-28 22:13:02,220 - INFO - Received packet 6/10 from ESP32
+2025-04-28 22:13:02,316 - INFO - Received packet 7/10 from ESP32
+2025-04-28 22:13:02,421 - INFO - Received packet 8/10 from ESP32
+2025-04-28 22:13:02,518 - INFO - Received packet 9/10 from ESP32
+2025-04-28 22:13:02,626 - INFO - Received packet 10/10 from ESP32
+2025-04-28 22:13:02,626 - INFO - Image reception latency: 1745874722310.23 ms
+2025-04-28 22:13:02,626 - INFO - Saved complete image to received_images/esp32_image_20250428_221302.jpg
+2025-04-28 22:13:02,626 - ERROR - Failed to decode image
+2025-04-28 22:13:02,626 - INFO - Average one-way latency: 1745874709177.62 ms
+2025-04-28 22:13:11,788 - INFO - Received packet 1/10 from ESP32
+2025-04-28 22:13:11,934 - INFO - Received packet 2/10 from ESP32
+2025-04-28 22:13:11,969 - INFO - Received packet 3/10 from ESP32
+2025-04-28 22:13:12,019 - INFO - Received packet 4/10 from ESP32
+2025-04-28 22:13:12,116 - INFO - Received packet 5/10 from ESP32
+2025-04-28 22:13:12,218 - INFO - Received packet 6/10 from ESP32
+2025-04-28 22:13:12,317 - INFO - Received packet 7/10 from ESP32
+2025-04-28 22:13:12,424 - INFO - Received packet 8/10 from ESP32
+2025-04-28 22:13:12,521 - INFO - Received packet 9/10 from ESP32
+2025-04-28 22:13:12,646 - INFO - Received packet 10/10 from ESP32
+2025-04-28 22:13:12,646 - INFO - Image reception latency: 1745874722329.80 ms
+2025-04-28 22:13:12,647 - INFO - Saved complete image to received_images/esp32_image_20250428_221312.jpg
+2025-04-28 22:13:12,647 - ERROR - Failed to decode image
+2025-04-28 22:13:12,647 - INFO - Average one-way latency: 1745874711369.65 ms
+2025-04-28 22:13:23,709 - INFO - Received packet 1/10 from ESP32
+2025-04-28 22:13:23,823 - INFO - Received packet 2/10 from ESP32
+2025-04-28 22:13:23,870 - INFO - Received packet 3/10 from ESP32
+2025-04-28 22:13:23,922 - INFO - Received packet 4/10 from ESP32
+2025-04-28 22:13:24,025 - INFO - Received packet 5/10 from ESP32
+2025-04-28 22:13:24,129 - INFO - Received packet 6/10 from ESP32
+2025-04-28 22:13:24,227 - INFO - Received packet 7/10 from ESP32
+2025-04-28 22:13:24,335 - INFO - Received packet 8/10 from ESP32
+2025-04-28 22:13:24,435 - INFO - Received packet 9/10 from ESP32
+2025-04-28 22:13:24,538 - INFO - Received packet 10/10 from ESP32
+2025-04-28 22:13:24,538 - INFO - Image reception latency: 1745874722308.53 ms
+2025-04-28 22:13:24,538 - INFO - Saved complete image to received_images/esp32_image_20250428_221324.jpg
+2025-04-28 22:13:24,538 - ERROR - Failed to decode image
+2025-04-28 22:13:24,538 - INFO - Average one-way latency: 1745874712932.35 ms
+2025-04-28 22:13:33,620 - INFO - Received packet 1/10 from ESP32
+2025-04-28 22:13:33,723 - INFO - Received packet 2/10 from ESP32
+2025-04-28 22:13:33,832 - INFO - Received packet 3/10 from ESP32
+2025-04-28 22:13:33,928 - INFO - Received packet 4/10 from ESP32
+2025-04-28 22:13:34,031 - INFO - Received packet 5/10 from ESP32
+2025-04-28 22:13:34,131 - INFO - Received packet 6/10 from ESP32
+2025-04-28 22:13:34,232 - INFO - Received packet 7/10 from ESP32
+2025-04-28 22:13:34,336 - INFO - Received packet 8/10 from ESP32
+2025-04-28 22:13:34,441 - INFO - Received packet 9/10 from ESP32
+2025-04-28 22:13:34,543 - INFO - Received packet 10/10 from ESP32
+2025-04-28 22:13:34,543 - INFO - Image reception latency: 1745874722312.85 ms
+2025-04-28 22:13:34,544 - INFO - Saved complete image to received_images/esp32_image_20250428_221334.jpg
+2025-04-28 22:13:34,544 - ERROR - Failed to decode image
+2025-04-28 22:13:34,544 - INFO - Average one-way latency: 1745874714104.91 ms
+2025-04-28 22:13:44,076 - INFO - Received packet 1/10 from ESP32
+2025-04-28 22:13:44,076 - INFO - Received packet 2/10 from ESP32
+2025-04-28 22:13:44,387 - INFO - Received packet 3/10 from ESP32
+2025-04-28 22:13:44,498 - INFO - Received packet 4/10 from ESP32
+2025-04-28 22:13:44,534 - INFO - Received packet 5/10 from ESP32
+2025-04-28 22:13:44,584 - INFO - Received packet 6/10 from ESP32
+2025-04-28 22:13:44,696 - INFO - Received packet 7/10 from ESP32
+2025-04-28 22:13:44,792 - INFO - Received packet 8/10 from ESP32
+2025-04-28 22:13:44,887 - INFO - Received packet 9/10 from ESP32
+2025-04-28 22:13:44,990 - INFO - Received packet 10/10 from ESP32
+2025-04-28 22:13:44,990 - INFO - Image reception latency: 1745874722758.68 ms
+2025-04-28 22:13:44,990 - INFO - Saved complete image to received_images/esp32_image_20250428_221344.jpg
+2025-04-28 22:13:44,991 - ERROR - Failed to decode image
+2025-04-28 22:13:44,991 - INFO - Average one-way latency: 1745874715066.44 ms
+2025-04-28 22:13:53,771 - INFO - Received packet 1/10 from ESP32
+2025-04-28 22:13:53,838 - INFO - Received packet 2/10 from ESP32
+2025-04-28 22:13:53,870 - INFO - Received packet 3/10 from ESP32
+2025-04-28 22:13:53,941 - INFO - Received packet 4/10 from ESP32
+2025-04-28 22:13:54,026 - INFO - Received packet 5/10 from ESP32
+2025-04-28 22:13:54,138 - INFO - Received packet 6/10 from ESP32
+2025-04-28 22:13:54,339 - INFO - Received packet 7/10 from ESP32
+2025-04-28 22:13:55,480 - INFO - Received packet 8/10 from ESP32
+2025-04-28 22:13:55,539 - INFO - Received packet 9/10 from ESP32
+2025-04-28 22:16:54,113 - INFO - Program terminated by user
+2025-04-28 22:16:57,530 - INFO - Connecting to MQTT broker...
+2025-04-28 22:16:57,532 - INFO - Connected to MQTT broker with result code 0
+2025-04-28 22:16:57,532 - INFO - Subscribed to esp32/image
+2025-04-28 22:17:23,319 - INFO - Received packet 1/1 from ESP32
+2025-04-28 22:17:23,319 - INFO - Image reception latency: 1745875033318.46 ms
+2025-04-28 22:17:23,319 - INFO - Saved complete image to received_images/esp32_image_20250428_221723.jpg
+2025-04-28 22:17:23,320 - ERROR - Failed to decode image
+2025-04-28 22:17:23,320 - INFO - Average one-way latency: 1745875033318.46 ms
+2025-04-28 22:17:38,753 - INFO - Received packet 1/1 from ESP32
+2025-04-28 22:17:38,754 - INFO - Image reception latency: 1745875048753.17 ms
+2025-04-28 22:17:38,754 - INFO - Saved complete image to received_images/esp32_image_20250428_221738.jpg
+2025-04-28 22:17:38,754 - ERROR - Failed to decode image
+2025-04-28 22:17:38,754 - INFO - Average one-way latency: 1745875041035.82 ms
+2025-04-28 22:18:05,869 - INFO - Received packet 1/1 from ESP32
+2025-04-28 22:18:05,869 - INFO - Image reception latency: 1745875070856.52 ms
+2025-04-28 22:18:05,869 - INFO - Saved complete image to received_images/esp32_image_20250428_221805.jpg
+2025-04-28 22:18:05,869 - ERROR - Failed to decode image
+2025-04-28 22:18:05,869 - INFO - Average one-way latency: 1745875050976.05 ms
+2025-04-28 22:18:15,842 - INFO - Received packet 1/1 from ESP32
+2025-04-28 22:18:15,843 - INFO - Image reception latency: 1745875070730.04 ms
+2025-04-28 22:18:15,843 - INFO - Saved complete image to received_images/esp32_image_20250428_221815.jpg
+2025-04-28 22:18:15,843 - ERROR - Failed to decode image
+2025-04-28 22:18:15,843 - INFO - Average one-way latency: 1745875055914.55 ms
+2025-04-28 22:18:26,028 - INFO - Received packet 1/1 from ESP32
+2025-04-28 22:18:26,029 - INFO - Image reception latency: 1745875071015.09 ms
+2025-04-28 22:18:26,029 - INFO - Saved complete image to received_images/esp32_image_20250428_221826.jpg
+2025-04-28 22:18:26,029 - ERROR - Failed to decode image
+2025-04-28 22:18:26,029 - INFO - Average one-way latency: 1745875058934.66 ms
+2025-04-28 22:18:36,109 - INFO - Received packet 1/1 from ESP32
+2025-04-28 22:18:36,109 - INFO - Image reception latency: 1745875071094.48 ms
+2025-04-28 22:18:36,109 - INFO - Saved complete image to received_images/esp32_image_20250428_221836.jpg
+2025-04-28 22:18:36,109 - ERROR - Failed to decode image
+2025-04-28 22:18:36,109 - INFO - Average one-way latency: 1745875060961.29 ms
+2025-04-28 22:18:46,506 - INFO - Received packet 1/1 from ESP32
+2025-04-28 22:18:46,507 - INFO - Image reception latency: 1745875071491.03 ms
+2025-04-28 22:18:46,507 - INFO - Saved complete image to received_images/esp32_image_20250428_221846.jpg
+2025-04-28 22:18:46,507 - ERROR - Failed to decode image
+2025-04-28 22:18:46,507 - INFO - Average one-way latency: 1745875062465.54 ms
+2025-04-28 22:35:09,687 - INFO - Received packet 1/3 from ESP32
+2025-04-28 22:35:09,926 - INFO - Received packet 2/3 from ESP32
+2025-04-28 22:35:10,136 - INFO - Received packet 3/3 from ESP32
+2025-04-28 22:35:10,137 - INFO - Image reception latency: 1745876100136.09 ms
+2025-04-28 22:35:10,137 - INFO - Saved complete image to received_images/esp32_image_20250428_223510.jpg
+2025-04-28 22:35:10,140 - INFO - Sending processed image back to ESP32 (6917 bytes in 2 packets)
+2025-04-28 22:35:10,141 - INFO - Sent packet 1/2 to ESP32
+2025-04-28 22:35:10,241 - INFO - Sent packet 2/2 to ESP32
+2025-04-28 22:35:10,341 - INFO - Average one-way latency: 1745875192174.36 ms
+2025-04-28 22:35:34,355 - INFO - Program terminated by user
+2025-04-28 22:35:36,499 - INFO - Connecting to MQTT broker...
+2025-04-28 22:35:36,501 - INFO - Connected to MQTT broker with result code 0
+2025-04-28 22:35:36,501 - INFO - Subscribed to esp32/image
+2025-04-28 22:36:41,718 - INFO - Program terminated by user
+2025-04-28 22:36:44,073 - INFO - Connecting to MQTT broker...
+2025-04-28 22:36:44,076 - INFO - Connected to MQTT broker with result code 0
+2025-04-28 22:36:44,076 - INFO - Subscribed to esp32/image
+2025-04-28 22:36:56,173 - INFO - Received packet 1/3 from ESP32
+2025-04-28 22:36:56,448 - INFO - Received packet 2/3 from ESP32
+2025-04-28 22:36:56,851 - INFO - Received packet 3/3 from ESP32
+2025-04-28 22:36:56,851 - INFO - Image reception latency: 1745876206850.77 ms
+2025-04-28 22:36:56,852 - INFO - Saved complete image to received_images/esp32_image_20250428_223656.jpg
+2025-04-28 22:36:56,855 - INFO - Sending processed image back to ESP32 (15951 bytes in 4 packets)
+2025-04-28 22:36:56,855 - INFO - Sent packet 1/4 to ESP32
+2025-04-28 22:36:56,956 - INFO - Sent packet 2/4 to ESP32
+2025-04-28 22:36:57,056 - INFO - Sent packet 3/4 to ESP32
+2025-04-28 22:36:57,157 - INFO - Sent packet 4/4 to ESP32
+2025-04-28 22:36:57,257 - INFO - Average one-way latency: 1745876206850.77 ms
+2025-04-28 22:40:24,168 - INFO - Program terminated by user

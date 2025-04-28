@@ -1,0 +1,237 @@
+2025-04-28 22:40:34,797 - INFO - Connecting to MQTT broker...
+2025-04-28 22:40:34,799 - INFO - Connected to MQTT broker with result code 0
+2025-04-28 22:40:34,800 - INFO - Subscribed to esp32/image and esp32/latency
+2025-04-28 22:41:36,090 - INFO - Received packet 1/3 for image 1
+2025-04-28 22:41:36,378 - INFO - Received packet 2/3 for image 1
+2025-04-28 22:41:36,578 - INFO - Received packet 3/3 for image 1
+2025-04-28 22:41:36,578 - INFO - Image 1 reception latency: 1745876486577.84 ms
+2025-04-28 22:41:36,579 - INFO - Saved complete image to received_images/image_1_20250428_224136.jpg
+2025-04-28 22:41:36,582 - INFO - Saved processed image to received_images/image_1_20250428_224136_processed.jpg
+2025-04-28 22:41:36,583 - INFO - Sending processed image back to ESP32 (17991 bytes in 9 packets)
+2025-04-28 22:41:36,583 - INFO - Sent packet 1/9 to ESP32
+2025-04-28 22:41:36,634 - INFO - Sent packet 2/9 to ESP32
+2025-04-28 22:41:36,685 - INFO - Sent packet 3/9 to ESP32
+2025-04-28 22:41:36,735 - INFO - Sent packet 4/9 to ESP32
+2025-04-28 22:41:36,786 - INFO - Sent packet 5/9 to ESP32
+2025-04-28 22:41:36,836 - INFO - Sent packet 6/9 to ESP32
+2025-04-28 22:41:36,887 - INFO - Sent packet 7/9 to ESP32
+2025-04-28 22:41:36,938 - INFO - Sent packet 8/9 to ESP32
+2025-04-28 22:41:36,988 - INFO - Sent packet 9/9 to ESP32
+2025-04-28 22:41:37,039 - INFO - Image processing time: 459.63 ms
+2025-04-28 22:41:37,039 - INFO - Average one-way latency: 1745876486577.84 ms
+2025-04-28 22:41:46,091 - INFO - Received packet 1/3 for image 2
+2025-04-28 22:41:46,137 - INFO - Received packet 2/3 for image 2
+2025-04-28 22:41:46,434 - INFO - Received packet 3/3 for image 2
+2025-04-28 22:41:46,435 - INFO - Image 2 reception latency: 1745876486433.23 ms
+2025-04-28 22:41:46,435 - INFO - Saved complete image to received_images/image_2_20250428_224146.jpg
+2025-04-28 22:41:46,439 - INFO - Saved processed image to received_images/image_2_20250428_224146_processed.jpg
+2025-04-28 22:41:46,441 - INFO - Sending processed image back to ESP32 (14250 bytes in 7 packets)
+2025-04-28 22:41:46,442 - INFO - Sent packet 1/7 to ESP32
+2025-04-28 22:41:46,492 - INFO - Sent packet 2/7 to ESP32
+2025-04-28 22:41:46,543 - INFO - Sent packet 3/7 to ESP32
+2025-04-28 22:41:46,594 - INFO - Sent packet 4/7 to ESP32
+2025-04-28 22:41:46,644 - INFO - Sent packet 5/7 to ESP32
+2025-04-28 22:41:46,695 - INFO - Sent packet 6/7 to ESP32
+2025-04-28 22:41:46,745 - INFO - Sent packet 7/7 to ESP32
+2025-04-28 22:41:46,795 - INFO - Image processing time: 360.23 ms
+2025-04-28 22:41:46,796 - INFO - Average one-way latency: 1745876486505.54 ms
+2025-04-28 22:42:33,395 - INFO - Received packet 1/3 for image 1
+2025-04-28 22:42:33,448 - INFO - Received packet 2/3 for image 1
+2025-04-28 22:42:33,515 - INFO - Received packet 3/3 for image 1
+2025-04-28 22:42:33,515 - INFO - Image 1 reception latency: 1745876543514.46 ms
+2025-04-28 22:42:33,515 - INFO - Saved complete image to received_images/image_1_20250428_224233.jpg
+2025-04-28 22:42:33,518 - INFO - Saved processed image to received_images/image_1_20250428_224233_processed.jpg
+2025-04-28 22:42:33,519 - INFO - Sending processed image back to ESP32 (17512 bytes in 9 packets)
+2025-04-28 22:42:33,519 - INFO - Sent packet 1/9 to ESP32
+2025-04-28 22:42:33,569 - INFO - Sent packet 2/9 to ESP32
+2025-04-28 22:42:33,620 - INFO - Sent packet 3/9 to ESP32
+2025-04-28 22:42:33,670 - INFO - Sent packet 4/9 to ESP32
+2025-04-28 22:42:33,720 - INFO - Sent packet 5/9 to ESP32
+2025-04-28 22:42:33,771 - INFO - Sent packet 6/9 to ESP32
+2025-04-28 22:42:33,821 - INFO - Sent packet 7/9 to ESP32
+2025-04-28 22:42:33,872 - INFO - Sent packet 8/9 to ESP32
+2025-04-28 22:42:33,922 - INFO - Sent packet 9/9 to ESP32
+2025-04-28 22:42:33,972 - INFO - Image processing time: 456.73 ms
+2025-04-28 22:42:33,972 - INFO - Average one-way latency: 1745876505508.51 ms
+2025-04-28 22:42:43,387 - INFO - Received packet 1/3 for image 2
+2025-04-28 22:42:43,416 - INFO - Received packet 2/3 for image 2
+2025-04-28 22:42:43,534 - INFO - Received packet 3/3 for image 2
+2025-04-28 22:42:43,534 - INFO - Image 2 reception latency: 1745876543532.58 ms
+2025-04-28 22:42:43,534 - INFO - Saved complete image to received_images/image_2_20250428_224243.jpg
+2025-04-28 22:42:43,537 - INFO - Saved processed image to received_images/image_2_20250428_224243_processed.jpg
+2025-04-28 22:42:43,538 - INFO - Sending processed image back to ESP32 (13206 bytes in 7 packets)
+2025-04-28 22:42:43,538 - INFO - Sent packet 1/7 to ESP32
+2025-04-28 22:42:43,589 - INFO - Sent packet 2/7 to ESP32
+2025-04-28 22:42:43,639 - INFO - Sent packet 3/7 to ESP32
+2025-04-28 22:42:43,690 - INFO - Sent packet 4/7 to ESP32
+2025-04-28 22:42:43,740 - INFO - Sent packet 5/7 to ESP32
+2025-04-28 22:42:43,791 - INFO - Sent packet 6/7 to ESP32
+2025-04-28 22:42:43,841 - INFO - Sent packet 7/7 to ESP32
+2025-04-28 22:42:43,892 - INFO - Image processing time: 357.02 ms
+2025-04-28 22:42:43,892 - INFO - Average one-way latency: 1745876515014.53 ms
+2025-04-28 22:42:53,401 - INFO - Received packet 1/2 for image 3
+2025-04-28 22:42:53,442 - INFO - Received packet 2/2 for image 3
+2025-04-28 22:42:53,443 - INFO - Image 3 reception latency: 1745876543440.08 ms
+2025-04-28 22:42:53,443 - INFO - Saved complete image to received_images/image_3_20250428_224253.jpg
+2025-04-28 22:42:53,445 - INFO - Saved processed image to received_images/image_3_20250428_224253_processed.jpg
+2025-04-28 22:42:53,446 - INFO - Sending processed image back to ESP32 (14383 bytes in 8 packets)
+2025-04-28 22:42:53,447 - INFO - Sent packet 1/8 to ESP32
+2025-04-28 22:42:53,497 - INFO - Sent packet 2/8 to ESP32
+2025-04-28 22:42:53,548 - INFO - Sent packet 3/8 to ESP32
+2025-04-28 22:42:53,598 - INFO - Sent packet 4/8 to ESP32
+2025-04-28 22:42:53,649 - INFO - Sent packet 5/8 to ESP32
+2025-04-28 22:42:53,699 - INFO - Sent packet 6/8 to ESP32
+2025-04-28 22:42:53,750 - INFO - Sent packet 7/8 to ESP32
+2025-04-28 22:42:53,800 - INFO - Sent packet 8/8 to ESP32
+2025-04-28 22:42:53,850 - INFO - Image processing time: 407.35 ms
+2025-04-28 22:42:53,851 - INFO - Average one-way latency: 1745876520699.64 ms
+2025-04-28 22:43:03,392 - INFO - Received packet 1/2 for image 4
+2025-04-28 22:43:03,434 - INFO - Received packet 2/2 for image 4
+2025-04-28 22:43:03,435 - INFO - Image 4 reception latency: 1745876543431.09 ms
+2025-04-28 22:43:03,435 - INFO - Saved complete image to received_images/image_4_20250428_224303.jpg
+2025-04-28 22:43:03,437 - INFO - Saved processed image to received_images/image_4_20250428_224303_processed.jpg
+2025-04-28 22:43:03,438 - INFO - Sending processed image back to ESP32 (14678 bytes in 8 packets)
+2025-04-28 22:43:03,439 - INFO - Sent packet 1/8 to ESP32
+2025-04-28 22:43:03,489 - INFO - Sent packet 2/8 to ESP32
+2025-04-28 22:43:03,539 - INFO - Sent packet 3/8 to ESP32
+2025-04-28 22:43:03,590 - INFO - Sent packet 4/8 to ESP32
+2025-04-28 22:43:03,640 - INFO - Sent packet 5/8 to ESP32
+2025-04-28 22:43:03,690 - INFO - Sent packet 6/8 to ESP32
+2025-04-28 22:43:03,741 - INFO - Sent packet 7/8 to ESP32
+2025-04-28 22:43:03,791 - INFO - Sent packet 8/8 to ESP32
+2025-04-28 22:43:03,842 - INFO - Image processing time: 406.50 ms
+2025-04-28 22:43:03,842 - INFO - Average one-way latency: 1745876524488.21 ms
+2025-04-28 22:43:13,528 - INFO - Received packet 1/2 for image 5
+2025-04-28 22:43:13,684 - INFO - Received packet 2/2 for image 5
+2025-04-28 22:43:13,684 - INFO - Image 5 reception latency: 1745876543679.59 ms
+2025-04-28 22:43:13,684 - INFO - Saved complete image to received_images/image_5_20250428_224313.jpg
+2025-04-28 22:43:13,687 - INFO - Saved processed image to received_images/image_5_20250428_224313_processed.jpg
+2025-04-28 22:43:13,688 - INFO - Sending processed image back to ESP32 (14280 bytes in 7 packets)
+2025-04-28 22:43:13,688 - INFO - Sent packet 1/7 to ESP32
+2025-04-28 22:43:13,738 - INFO - Sent packet 2/7 to ESP32
+2025-04-28 22:43:13,789 - INFO - Sent packet 3/7 to ESP32
+2025-04-28 22:43:13,839 - INFO - Sent packet 4/7 to ESP32
+2025-04-28 22:43:13,890 - INFO - Sent packet 5/7 to ESP32
+2025-04-28 22:43:13,940 - INFO - Sent packet 6/7 to ESP32
+2025-04-28 22:43:13,991 - INFO - Sent packet 7/7 to ESP32
+2025-04-28 22:43:14,041 - INFO - Image processing time: 356.38 ms
+2025-04-28 22:43:14,041 - INFO - Average one-way latency: 1745876527229.84 ms
+2025-04-28 22:43:23,336 - INFO - Received latency statistics from ESP32:
+2025-04-28 22:43:23,336 - INFO -   Average latency: 3816.00 ms
+2025-04-28 22:43:23,336 - INFO -   Min latency: 2926 ms
+2025-04-28 22:43:23,336 - INFO -   Max latency: 4822 ms
+2025-04-28 22:43:23,336 - INFO -   Measurements: 5
+2025-04-28 22:43:23,336 - INFO -   Images sent: 5
+2025-04-28 22:43:23,336 - INFO -   Images received: 5
+2025-04-28 22:43:23,398 - INFO - Received packet 1/2 for image 6
+2025-04-28 22:43:23,456 - INFO - Received packet 2/2 for image 6
+2025-04-28 22:43:23,457 - INFO - Image 6 reception latency: 1745876543451.09 ms
+2025-04-28 22:43:23,457 - INFO - Saved complete image to received_images/image_6_20250428_224323.jpg
+2025-04-28 22:43:23,459 - INFO - Saved processed image to received_images/image_6_20250428_224323_processed.jpg
+2025-04-28 22:43:23,460 - INFO - Sending processed image back to ESP32 (14331 bytes in 7 packets)
+2025-04-28 22:43:23,460 - INFO - Sent packet 1/7 to ESP32
+2025-04-28 22:43:23,511 - INFO - Sent packet 2/7 to ESP32
+2025-04-28 22:43:23,561 - INFO - Sent packet 3/7 to ESP32
+2025-04-28 22:43:23,612 - INFO - Sent packet 4/7 to ESP32
+2025-04-28 22:43:23,662 - INFO - Sent packet 5/7 to ESP32
+2025-04-28 22:43:23,712 - INFO - Sent packet 6/7 to ESP32
+2025-04-28 22:43:23,763 - INFO - Sent packet 7/7 to ESP32
+2025-04-28 22:43:23,813 - INFO - Image processing time: 355.86 ms
+2025-04-28 22:43:23,813 - INFO - Average one-way latency: 1745876529257.50 ms
+2025-04-28 22:44:23,340 - INFO - Received latency statistics from ESP32:
+2025-04-28 22:44:23,340 - INFO -   Average latency: 3816.00 ms
+2025-04-28 22:44:23,340 - INFO -   Min latency: 2926 ms
+2025-04-28 22:44:23,340 - INFO -   Max latency: 4822 ms
+2025-04-28 22:44:23,340 - INFO -   Measurements: 5
+2025-04-28 22:44:23,340 - INFO -   Images sent: 6
+2025-04-28 22:44:23,340 - INFO -   Images received: 5
+2025-04-28 22:45:23,474 - INFO - Received latency statistics from ESP32:
+2025-04-28 22:45:23,474 - INFO -   Average latency: 3816.00 ms
+2025-04-28 22:45:23,474 - INFO -   Min latency: 2926 ms
+2025-04-28 22:45:23,474 - INFO -   Max latency: 4822 ms
+2025-04-28 22:45:23,474 - INFO -   Measurements: 5
+2025-04-28 22:45:23,474 - INFO -   Images sent: 6
+2025-04-28 22:45:23,475 - INFO -   Images received: 5
+2025-04-28 22:47:34,187 - INFO - Program terminated by user
+2025-04-28 22:47:37,103 - INFO - Connecting to MQTT broker...
+2025-04-28 22:47:37,105 - INFO - Connected to MQTT broker with result code 0
+2025-04-28 22:47:37,105 - INFO - Subscribed to esp32/image and esp32/latency
+2025-04-28 22:47:37,800 - INFO - Received packet 1/3 for image 1
+2025-04-28 22:47:37,856 - INFO - Received packet 2/3 for image 1
+2025-04-28 22:47:37,942 - INFO - Received packet 3/3 for image 1
+2025-04-28 22:47:37,942 - INFO - Image 1 reception latency: 1745876825891.57 ms
+2025-04-28 22:47:37,942 - INFO - Saved complete image to received_images/image_1_20250428_224737.jpg
+2025-04-28 22:47:37,945 - INFO - Saved processed image to received_images/image_1_20250428_224737_processed.jpg
+2025-04-28 22:47:37,945 - INFO - Sending processed image back to ESP32 (18481 bytes in 10 packets)
+2025-04-28 22:47:37,946 - INFO - Sent packet 1/10 to ESP32
+2025-04-28 22:47:37,996 - INFO - Sent packet 2/10 to ESP32
+2025-04-28 22:47:38,047 - INFO - Sent packet 3/10 to ESP32
+2025-04-28 22:47:38,097 - INFO - Sent packet 4/10 to ESP32
+2025-04-28 22:47:38,148 - INFO - Sent packet 5/10 to ESP32
+2025-04-28 22:47:38,198 - INFO - Sent packet 6/10 to ESP32
+2025-04-28 22:47:38,248 - INFO - Sent packet 7/10 to ESP32
+2025-04-28 22:47:38,299 - INFO - Sent packet 8/10 to ESP32
+2025-04-28 22:47:38,349 - INFO - Sent packet 9/10 to ESP32
+2025-04-28 22:47:38,399 - INFO - Sent packet 10/10 to ESP32
+2025-04-28 22:47:38,450 - INFO - Image processing time: 507.05 ms
+2025-04-28 22:47:38,450 - INFO - Average one-way latency: 1745876825891.57 ms
+2025-04-28 22:47:48,694 - INFO - Received packet 1/3 for image 2
+2025-04-28 22:47:48,933 - INFO - Received packet 2/3 for image 2
+2025-04-28 22:47:49,046 - INFO - Received packet 3/3 for image 2
+2025-04-28 22:47:49,047 - INFO - Image 2 reception latency: 1745876826129.33 ms
+2025-04-28 22:47:49,047 - INFO - Saved complete image to received_images/image_2_20250428_224749.jpg
+2025-04-28 22:47:49,049 - INFO - Saved processed image to received_images/image_2_20250428_224749_processed.jpg
+2025-04-28 22:47:49,050 - INFO - Sending processed image back to ESP32 (16292 bytes in 8 packets)
+2025-04-28 22:47:49,051 - INFO - Sent packet 1/8 to ESP32
+2025-04-28 22:47:49,101 - INFO - Sent packet 2/8 to ESP32
+2025-04-28 22:47:49,151 - INFO - Sent packet 3/8 to ESP32
+2025-04-28 22:47:49,202 - INFO - Sent packet 4/8 to ESP32
+2025-04-28 22:47:49,252 - INFO - Sent packet 5/8 to ESP32
+2025-04-28 22:47:49,302 - INFO - Sent packet 6/8 to ESP32
+2025-04-28 22:47:49,353 - INFO - Sent packet 7/8 to ESP32
+2025-04-28 22:47:49,403 - INFO - Sent packet 8/8 to ESP32
+2025-04-28 22:47:49,453 - INFO - Image processing time: 405.88 ms
+2025-04-28 22:47:49,453 - INFO - Average one-way latency: 1745876826010.45 ms
+2025-04-28 22:48:20,620 - INFO - Received packet 1/3 for image 1
+2025-04-28 22:48:20,891 - INFO - Received packet 2/3 for image 1
+2025-04-28 22:48:21,100 - INFO - Received packet 3/3 for image 1
+2025-04-28 22:48:21,101 - INFO - Image 1 reception latency: 1745876891100.38 ms
+2025-04-28 22:48:21,101 - INFO - Saved complete image to received_images/image_1_20250428_224821.jpg
+2025-04-28 22:48:21,103 - INFO - Saved processed image to received_images/image_1_20250428_224821_processed.jpg
+2025-04-28 22:48:21,104 - INFO - Sending processed image back to ESP32 (15126 bytes in 8 packets)
+2025-04-28 22:48:21,105 - INFO - Sent packet 1/8 to ESP32
+2025-04-28 22:48:21,155 - INFO - Sent packet 2/8 to ESP32
+2025-04-28 22:48:21,205 - INFO - Sent packet 3/8 to ESP32
+2025-04-28 22:48:21,256 - INFO - Sent packet 4/8 to ESP32
+2025-04-28 22:48:21,306 - INFO - Sent packet 5/8 to ESP32
+2025-04-28 22:48:21,357 - INFO - Sent packet 6/8 to ESP32
+2025-04-28 22:48:21,407 - INFO - Sent packet 7/8 to ESP32
+2025-04-28 22:48:21,458 - INFO - Sent packet 8/8 to ESP32
+2025-04-28 22:48:21,508 - INFO - Image processing time: 406.84 ms
+2025-04-28 22:48:21,508 - INFO - Average one-way latency: 1745876847707.09 ms
+2025-04-28 22:49:06,631 - INFO - Program terminated by user
+2025-04-28 22:49:13,600 - INFO - Connecting to MQTT broker...
+2025-04-28 22:49:13,602 - INFO - Connected to MQTT broker with result code 0
+2025-04-28 22:49:13,602 - INFO - Subscribed to esp32/image and esp32/latency
+2025-04-28 22:50:10,535 - INFO - Received packet 1/3 for image 1
+2025-04-28 22:50:10,544 - INFO - Received packet 2/3 for image 1
+2025-04-28 22:50:10,627 - INFO - Received packet 3/3 for image 1
+2025-04-28 22:50:10,628 - INFO - Image 1 reception latency: 1745877000627.02 ms
+2025-04-28 22:50:10,628 - INFO - Saved complete image to received_images/image_1_20250428_225010.jpg
+2025-04-28 22:50:10,631 - INFO - Saved processed image to received_images/image_1_20250428_225010_processed.jpg
+2025-04-28 22:50:10,633 - INFO - Sending processed image back to ESP32 (22277 bytes in 11 packets)
+2025-04-28 22:50:10,633 - INFO - Sent packet 1/11 to ESP32
+2025-04-28 22:50:10,683 - INFO - Sent packet 2/11 to ESP32
+2025-04-28 22:50:10,734 - INFO - Sent packet 3/11 to ESP32
+2025-04-28 22:50:10,784 - INFO - Sent packet 4/11 to ESP32
+2025-04-28 22:50:10,835 - INFO - Sent packet 5/11 to ESP32
+2025-04-28 22:50:10,885 - INFO - Sent packet 6/11 to ESP32
+2025-04-28 22:50:10,935 - INFO - Sent packet 7/11 to ESP32
+2025-04-28 22:50:10,986 - INFO - Sent packet 8/11 to ESP32
+2025-04-28 22:50:11,036 - INFO - Sent packet 9/11 to ESP32
+2025-04-28 22:50:11,086 - INFO - Sent packet 10/11 to ESP32
+2025-04-28 22:50:11,137 - INFO - Sent packet 11/11 to ESP32
+2025-04-28 22:50:11,187 - INFO - Image processing time: 558.89 ms
+2025-04-28 22:50:11,187 - INFO - Average one-way latency: 1745877000627.02 ms
+2025-04-28 22:50:19,687 - INFO - Received packet 1/3 for image 2
+2025-04-28 22:50:19,729 - INFO - Received packet 2/3 for image 2
