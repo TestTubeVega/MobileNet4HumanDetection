@@ -53,9 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-This repo implement a MobileNetV2 NN network for Human Detection purpose; aimed testing different design choice for E6908 Spring 2025
+This repo implement a MobileNetV2 NN network for Human Detection purpose; aimed testing different design choice for E6908 Spring 2025.
 
 This Repo includes code for 3 tests:
 
