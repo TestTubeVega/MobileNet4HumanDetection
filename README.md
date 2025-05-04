@@ -65,7 +65,6 @@ Test 2: Raspberry pi 5 inference test
 
 Test 3: Communication latency test
 - Utilized MQTT protocol, testing image sending latency between the two devices
-do a search and replace with your text editor for the following: `TestTubeVega`, `MobileNet4HumanDetection`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
