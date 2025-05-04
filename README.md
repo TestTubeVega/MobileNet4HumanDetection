@@ -101,7 +101,9 @@ Software:
 
 ### Test 1: ESP32 Model inference
 The MobileNet v2 inference testing code is in folder ./a6908p_inferencing 
+
 The model is finetuned, deployed and modified from the Edge Pulse.
+
 Usage: import the library definition file in the folder to Arduino, set PSRAM to enable; then it is all set to flash
 
 ### Test2: Raspberry pi Model inference
