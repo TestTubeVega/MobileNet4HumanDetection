@@ -1,19 +1,3 @@
-# MobileNet4HumanDetection
-
-This repo implement a MobileNetV2 NN network for Human Detection purpose; aimed testing different design choice for E6908 Spring 2025
-
-## usage of the repo
-
-The repository includes 3 tests introduced in our project.
-
-### Test 1: ESP32 Model inference
-The MobileNet v2 inference testing code is in folder ./a6908p_inferencing 
-The model is finetuned, deployed and modified from the Edge Pulse.
-Usage: import the 
-
-
-
-
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
@@ -74,10 +58,13 @@ Usage: import the
 This repo implement a MobileNetV2 NN network for Human Detection purpose; aimed testing different design choice for E6908 Spring 2025
 
 This Repo includes code for 3 tests:
+
 Test 1: ESP32 inference test
 - Trained and quantized model deployed on ESP32, testing accuracy and inference speed
+
 Test 2: Raspberry pi 5 inference test
 - Trained full model deployed on raspberry pi 5, testing accuracy and inference speed
+
 Test 3: Communication latency test
 - Utilized MQTT protocol, testing image sending latency between the two devices
 do a search and replace with your text editor for the following: `TestTubeVega`, `MobileNet4HumanDetection`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
@@ -127,11 +114,48 @@ Usage: install the required python packages below
   ```sh
   pip install opencv-python numpy tensorflow matplotlib scikit-learn
   ```
-and run the notebook for testing
+and run the notebook for testing.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Test3: MQTT Communication Latency Test
+This test includes 2 sets of code
+#### ESP32 code: in /ESP32_MQTT_Profiling folder
+Usage: install the following library in Arduino:
+- ArduinoJson
+- PubSubClient
 
+open the file in the Arduino, change the WIFI name in the top of the file to your testing WIFI name, and then the code is ready to flash.
+
+#### Raspberry pi code: in /Raspi_MQTT_Profiling/mqtt_image_latency2.py
+Usage: 
+1. connect the raspberry pi to the testing WIFI
+2. install and config the mqtt broker
+   - Run the following command to upgrade and update your system:
+      ```sh
+      sudo apt update && sudo apt upgrade
+      ```
+    - Install the Mosquitto Broker
+      ```sh
+      sudo apt install -y mosquitto mosquitto-clients
+      ```
+    - open the mosquitto.conf file.
+      ```sh
+      sudo nano /etc/mosquitto/mosquitto.conf
+      ```
+    - Move to the end of the file and add the following two lines:
+      ```sh
+      listener 1883
+      allow_anonymous true
+      ```
+4. install the required python packages below
+  ```sh
+  pip install paho-mqtt opencv-python numpy tensorflow matplotlib scikit-learn
+  ```
+4. run the code in the terminal for testing.
+  ```sh
+  python3 ./Raspi_MQTT_Profiling/mqtt_image_latency2.py
+  ```
 
 <!-- ROADMAP -->
 ## Roadmap
